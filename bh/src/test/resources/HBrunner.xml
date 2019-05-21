@@ -15,7 +15,8 @@
     <test name="HB home">
         <classes>
 
-            <class name="homepagepack.CommonApiTests"/>
+           <class name="homepagepack.PhotographyDepTest"/>
+
         </classes>
     </test>
 </suite>
